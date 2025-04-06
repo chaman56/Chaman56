@@ -1,6 +1,7 @@
 # Hi there, I'm Chaman Yadav 👋
 
-I'm a passionate Computer Science student at IIIT Pune, driven by building innovative solutions, especially at the intersection of Web Development and Artificial Intelligence. I enjoy tackling complex problems and turning ideas into functional, user-friendly applications.
+I'm a passionate Computer Science student at IIIT Pune, driven by building innovative solutions, especially at the intersection of Web Development and Artificial Intelligence. I enjoy tackling complex problems and turning ideas into functional, user-friendly applications.  
+You can visit my portfolio website at https://chaman56.github.io.
 
 ---
 
@@ -57,9 +58,8 @@ I'm a passionate Computer Science student at IIIT Pune, driven by building innov
 <a href="https://codeforces.com/profile/chaman56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="chaman56" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/chaman56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chaman56" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@ychaman56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ychaman56" height="30" width="40" /></a>
+<a href="https://www.buymeacoffee.com/chaman"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="32" width="150" alt="chaman" /></a>
 </p>
-
----
 
 ## 📊 GitHub Stats
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaman56&label=Profile%20views&color=0e75b6&style=flat" alt="chaman56" /> </p>
@@ -68,6 +68,4 @@ I'm a passionate Computer Science student at IIIT Pune, driven by building innov
 [![Chaman's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaman56&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaman56&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/chaman"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chaman" /></a></p><br><br>  
 
