@@ -22,7 +22,8 @@ I'm a passionate Computer Science student at IIIT Pune, driven by building innov
 
 ## 🛠️ Tech Stack & Skills
 
-**Languages:**
+**Languages:**  
+
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -33,7 +34,8 @@ I'm a passionate Computer Science student at IIIT Pune, driven by building innov
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Frontend & Backend:**
+**Frontend & Backend:**  
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -41,7 +43,8 @@ I'm a passionate Computer Science student at IIIT Pune, driven by building innov
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-**AI / ML:**
+**AI / ML:**  
+
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Stability AI](https://img.shields.io/badge/Stability%20AI-7D4BFF?style=for-the-badge&logoColor=white)
@@ -58,7 +61,8 @@ I'm a passionate Computer Science student at IIIT Pune, driven by building innov
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-**Tools & Platforms:**
+**Tools & Platforms:**  
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -75,27 +79,27 @@ I'm a passionate Computer Science student at IIIT Pune, driven by building innov
 
 *(Note: Replace `#` with actual repository or live demo links where available)*
 
-1.  **MendGen AI (AI-Driven Healthcare Platform)** `[Visit Link/Repo]`
+1.  **MendGen AI (AI-Driven Healthcare Platform)** [Repo](https://github.com/DevDynamo01/ATMEC-Medical-Project-)
     *   AI-powered diagnosis, medical image analysis & treatment plans.
     *   Integrated multi-modal AI chatbot (text, image, audio) & ZegoCloud video consultations.
     *   *Tech:* React.js, Python, Flask, Google Gemini, RAG, Cloudinary.
 
-2.  **Smartvids (AI Video Generation from Prompts)** `[Visit Link/Repo]`
+2.  **Smartvids (AI Video Generation from Prompts)** [Repo](https://github.com/chaman56/smartvids)
     *   Automates video creation (script, voiceover, visuals) from text prompts.
     *   Utilized Gemini for scripts, ElevenLabs for TTS, and Stability AI/Stable Diffusion for visuals. Reduced production time by 60%.
     *   *Tech:* Next.js, MongoDB, Prisma, Clerk Auth, Stability AI, Google Gemini, ElevenLabs.
 
-3.  **Ai-Kart (Marketplace for AI Apps)** `[Visit Link/Repo]`
+3.  **Ai-Kart (Marketplace for AI Apps)** [Repo](https://github.com/chaman56/aikart)  [Visit Link](aikart.vercel.app)
     *   Platform for users to create custom AI apps using detailed prompts via Gemini API & vector embeddings.
     *   Features a marketplace for publishing and monetizing created AI apps.
     *   *Tech:* Google Gemini, LLMs, Node.js, React.js, Firebase.
 
-4.  **Crudcy (Online Coding Platform)** `[Visit Link/Repo]`
+4.  **Crudcy (Online Coding Platform)** [Visit Link/Repo](https://github.com/chaman56/Crudcy)
     *   Secure, multi-language online compiler using isolated Docker containers.
     *   Intuitive Next.js frontend with Monaco Editor, increasing user satisfaction by 50%.
     *   *Tech:* Node.js, Express, Docker, Next.js.
 
-5.  **The Tech Musketeers (NGO Proposal Platform - Backend)** `[Visit Link/Repo]`
+5.  **The Tech Musketeers (NGO Proposal Platform - Backend)** 
     *   Developed backend APIs for NGO proposal creation, management, and analytics.
     *   Built AI chatbot (OpenAI) reducing proposal creation time by 40%, integrated Stripe for subscriptions.
     *   *Tech:* FastAPI, Stripe, Prisma, Supabase, Docker, OpenAI, Next.js.
