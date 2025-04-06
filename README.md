@@ -4,14 +4,6 @@ I'm a passionate Computer Science student at IIIT Pune, driven by building innov
 
 ---
 
-*   🔭 **I’m currently working on:** Enhancing AI-driven and exploring new applications for Generative AI in various domains. Actively contributing to backend and other projects.
-*   🌱 **I’m currently learning:** AI/ML, Advanced concepts in Large Language Models (LLMs), scalable system design, and cloud-native architectures.
-*   👯 **I’m looking to collaborate on:** Open-source projects, AI/ML applications, innovative full-stack web applications, or challenging hackathon ideas.
-*   💬 **Ask me about:** Full-Stack Development (React, Next.js, Node.js, Express), Backend Systems, AI/ML Integration (Gemini, OpenAI, Stable Diffusion), Python, JavaScript/TypeScript, Docker, and Database Management (MongoDB, SQL).
-*   📫 **How to reach me:** [ychaman56@gmail.com](mailto:ychaman56@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/chaman56).
-
----
-
 ## 🛠️ Tech Stack & Skills
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -52,27 +44,20 @@ I'm a passionate Computer Science student at IIIT Pune, driven by building innov
 
 **Concepts:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOPs), Database Management Systems (DBMS), Operating Systems (OS), Machine Learning, AI, Web Development, Computer Networks.
 
----
 
-## 🚀 Highlighted Projects
-
-1.  **MedGen AI (A healthcare platform)** [MedGen AI](https://github.com/DevDynamo01/ATMEC-Medical-Project-)
-2.  **Smartvids (AI Video Generation from Prompts)** [Smartvids](https://github.com/chaman56/smartvids)
-3.  **Ai-Kart (Marketplace for AI Apps)** [Ai-kart](https://github.com/chaman56/aikart)  |  [Visit](aikart.vercel.app)
-4.  **Crudcy (Online Coding Platform)** [Crudcy](https://github.com/chaman56/Crudcy)
-5.  **The Tech Musketeers (NGO Proposal Platform - Backend)** 
-
----
-
-## 🏆 Achievements & Recognition
-
-*   **Finalist** - ATMECS Global GEN AI Hackathon 2024.
-*   **Winner (1st Place)** - JamShack Hackathon (Organized by NIT Agartala, June 2023) - Out of 300+ teams.
-*   **4th Place (Best Project - 2nd Year)** - "Hackin'" Hackathon (IIIT Pune Internal Hackathon).
-*   **Secured 97.5 Percentile** in JEE Mains (Top 2.5% out of ~1 Million students).
-*   **Competitive Programming:**
-    *   Codeforces: `[Max Rating: Pupil (1316)]` ([Profile Link](https://codeforces.com/profile/YOUR_CF_HANDLE)) <!-- Replace YOUR_CF_HANDLE -->
-    *   CodeChef: `[3 Star (Rating: 1734)]` ([Profile Link](https://www.codechef.com/users/YOUR_CC_HANDLE)) <!-- Replace YOUR_CC_HANDLE -->
+## Connect with me : 
+<p align="left">
+<a href="https://twitter.com/chaman560" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chaman560" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chaman56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaman56" height="30" width="40" /></a>
+<a href="https://kaggle.com/chaman56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chaman56" height="30" width="40" /></a>
+<a href="https://instagram.com/ychaman56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ychaman56" height="30" width="40" /></a>
+<a href="https://medium.com/@ychaman56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ychaman56" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/chamanyadav3936" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chamanyadav3936" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/chaman56" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="chaman56" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/chaman56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="chaman56" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/chaman56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chaman56" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@ychaman56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ychaman56" height="30" width="40" /></a>
+</p>
 
 ---
 
@@ -82,16 +67,6 @@ I'm a passionate Computer Science student at IIIT Pune, driven by building innov
 <!-- You can uncomment these lines and replace `YOUR_GITHUB_USERNAME` with your GitHub username -->
 [![Chaman's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaman56&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaman56&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/chaman560" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chaman560" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chaman56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaman56" height="30" width="40" /></a>
-<a href="https://kaggle.com/chaman56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chaman56" height="30" width="40" /></a>
-<a href="https://instagram.com/ychaman56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ychaman56" height="30" width="40" /></a>
-<a href="https://medium.com/@ychaman56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ychaman56" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/chamanyadav3936" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chamanyadav3936" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/chaman56" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="chaman56" height="30" width="40" /></a>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/chaman"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chaman" /></a></p><br><br>  
