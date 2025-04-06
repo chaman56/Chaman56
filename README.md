@@ -1,28 +1,18 @@
 # Hi there, I'm Chaman Yadav 👋
 
-<a href="https://linkedin.com/in/chaman56" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:ychaman56@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://github.com/chaman56" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-
 I'm a passionate Computer Science student at IIIT Pune, driven by building innovative solutions, especially at the intersection of Web Development and Artificial Intelligence. I enjoy tackling complex problems and turning ideas into functional, user-friendly applications.
 
 ---
 
-*   🔭 **I’m currently working on:** Enhancing AI-driven platforms like MendGen AI and exploring new applications for Generative AI in various domains. Actively contributing as a Backend Developer at The Tech Musketeers.
-*   🌱 **I’m currently learning:** Advanced concepts in Large Language Models (LLMs), prompt engineering techniques, scalable system design, and cloud-native architectures.
+*   🔭 **I’m currently working on:** Enhancing AI-driven and exploring new applications for Generative AI in various domains. Actively contributing to backend and other projects.
+*   🌱 **I’m currently learning:** AI/ML, Advanced concepts in Large Language Models (LLMs), scalable system design, and cloud-native architectures.
 *   👯 **I’m looking to collaborate on:** Open-source projects, AI/ML applications, innovative full-stack web applications, or challenging hackathon ideas.
 *   💬 **Ask me about:** Full-Stack Development (React, Next.js, Node.js, Express), Backend Systems, AI/ML Integration (Gemini, OpenAI, Stable Diffusion), Python, JavaScript/TypeScript, Docker, and Database Management (MongoDB, SQL).
 *   📫 **How to reach me:** [ychaman56@gmail.com](mailto:ychaman56@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/chaman56).
-*   ⚡ **Fun fact:** Won the JamShack Hackathon (NIT Agartala) out of 300+ teams and enjoy competitive programming!
 
 ---
 
 ## 🛠️ Tech Stack & Skills
-
-**Languages:**  
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -33,18 +23,12 @@ I'm a passionate Computer Science student at IIIT Pune, driven by building innov
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Frontend & Backend:**  
-
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-**AI / ML:**  
-
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Stability AI](https://img.shields.io/badge/Stability%20AI-7D4BFF?style=for-the-badge&logoColor=white)
@@ -53,16 +37,11 @@ I'm a passionate Computer Science student at IIIT Pune, driven by building innov
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blue?style=for-the-badge)
-
-**Databases & ORMs:**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-**Tools & Platforms:**  
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -77,34 +56,11 @@ I'm a passionate Computer Science student at IIIT Pune, driven by building innov
 
 ## 🚀 Highlighted Projects
 
-*(Note: Replace `#` with actual repository or live demo links where available)*
-
-1.  **MendGen AI (AI-Driven Healthcare Platform)** [Repo](https://github.com/DevDynamo01/ATMEC-Medical-Project-)
-    *   AI-powered diagnosis, medical image analysis & treatment plans.
-    *   Integrated multi-modal AI chatbot (text, image, audio) & ZegoCloud video consultations.
-    *   *Tech:* React.js, Python, Flask, Google Gemini, RAG, Cloudinary.
-
-2.  **Smartvids (AI Video Generation from Prompts)** [Repo](https://github.com/chaman56/smartvids)
-    *   Automates video creation (script, voiceover, visuals) from text prompts.
-    *   Utilized Gemini for scripts, ElevenLabs for TTS, and Stability AI/Stable Diffusion for visuals. Reduced production time by 60%.
-    *   *Tech:* Next.js, MongoDB, Prisma, Clerk Auth, Stability AI, Google Gemini, ElevenLabs.
-
-3.  **Ai-Kart (Marketplace for AI Apps)** [Repo](https://github.com/chaman56/aikart)  [Visit Link](aikart.vercel.app)
-    *   Platform for users to create custom AI apps using detailed prompts via Gemini API & vector embeddings.
-    *   Features a marketplace for publishing and monetizing created AI apps.
-    *   *Tech:* Google Gemini, LLMs, Node.js, React.js, Firebase.
-
-4.  **Crudcy (Online Coding Platform)** [Visit Link/Repo](https://github.com/chaman56/Crudcy)
-    *   Secure, multi-language online compiler using isolated Docker containers.
-    *   Intuitive Next.js frontend with Monaco Editor, increasing user satisfaction by 50%.
-    *   *Tech:* Node.js, Express, Docker, Next.js.
-
+1.  **MedGen AI (A healthcare platform)** [MedGen AI](https://github.com/DevDynamo01/ATMEC-Medical-Project-)
+2.  **Smartvids (AI Video Generation from Prompts)** [Smartvids](https://github.com/chaman56/smartvids)
+3.  **Ai-Kart (Marketplace for AI Apps)** [Ai-kart](https://github.com/chaman56/aikart)  |  [Visit](aikart.vercel.app)
+4.  **Crudcy (Online Coding Platform)** [Crudcy](https://github.com/chaman56/Crudcy)
 5.  **The Tech Musketeers (NGO Proposal Platform - Backend)** 
-    *   Developed backend APIs for NGO proposal creation, management, and analytics.
-    *   Built AI chatbot (OpenAI) reducing proposal creation time by 40%, integrated Stripe for subscriptions.
-    *   *Tech:* FastAPI, Stripe, Prisma, Supabase, Docker, OpenAI, Next.js.
-
-*...and many more including a Movie Recommendation System, Ecommerce WebApp (Stbay), Real-time Chat App, AI-powered games, and utility tools!*
 
 ---
 
@@ -121,12 +77,22 @@ I'm a passionate Computer Science student at IIIT Pune, driven by building innov
 ---
 
 ## 📊 GitHub Stats
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaman56&label=Profile%20views&color=0e75b6&style=flat" alt="chaman56" /> </p>
 
 <!-- You can uncomment these lines and replace `YOUR_GITHUB_USERNAME` with your GitHub username -->
-<!--
 [![Chaman's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaman56&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaman56&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
--->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=chaman56&label=Profile%20views&color=blueviolet&style=flat" alt="chaman56" /> </p>
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/chaman560" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chaman560" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chaman56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaman56" height="30" width="40" /></a>
+<a href="https://kaggle.com/chaman56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chaman56" height="30" width="40" /></a>
+<a href="https://instagram.com/ychaman56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ychaman56" height="30" width="40" /></a>
+<a href="https://medium.com/@ychaman56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ychaman56" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/chamanyadav3936" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chamanyadav3936" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/chaman56" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="chaman56" height="30" width="40" /></a>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/chaman"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chaman" /></a></p><br><br>  
+
