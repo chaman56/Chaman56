@@ -58,7 +58,6 @@ You can visit my portfolio website at https://chaman56.github.io.
 <a href="https://codeforces.com/profile/chaman56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="chaman56" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/chaman56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chaman56" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@ychaman56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ychaman56" height="30" width="40" /></a>
-<a href="https://www.buymeacoffee.com/chaman"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="32" width="150" alt="chaman" /></a>
 </p>
 
 ## 📊 GitHub Stats
